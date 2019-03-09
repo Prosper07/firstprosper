@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3,
+    "updatedOn": "Sat Mar 09 2019 16:23:44 GMT+0200 (Israel Standard Time)",
+    "subject": "JC",
+    "message": "JC",
+    "parentMessageId": 3,
+    "status": "read",
+    "senderId": 3,
+    "receiverIndivId": 6,
+    "receiverGroupId": [
+      3,
+      2
+    ]
+  },
+  {
+    "id": 4,
+    "createdOn": "Sat Mar 09 2019 15:59:00 GMT+0200 (Israel Standard Time)",
+    "updatedOn": "Sat Mar 09 2019 15:59:00 GMT+0200 (Israel Standard Time)",
+    "subject": "JC",
+    "message": "JC",
+    "parentMessageId": 3,
+    "status": "read",
+    "senderId": 3,
+    "receiverIndivId": 3,
+    "receiverGroupId": [
+      3,
+      2
+    ]
+  },
+  {
+    "id": 5,
+    "createdOn": "Sat Mar 09 2019 15:59:43 GMT+0200 (Israel Standard Time)",
+    "updatedOn": "Sat Mar 09 2019 15:59:43 GMT+0200 (Israel Standard Time)",
+    "subject": "JC",
+    "message": "JC",
+    "parentMessageId": 3,
+    "status": "read",
+    "senderId": 3,
+    "receiverIndivId": 4,
+    "receiverGroupId": [
+      3,
+      2
+    ]
+  },
+  {
+    "id": 6,
+    "createdOn": "Sat Mar 09 2019 16:22:04 GMT+0200 (Israel Standard Time)",
+    "updatedOn": "Sat Mar 09 2019 16:22:04 GMT+0200 (Israel Standard Time)",
+    "subject": "JC",
+    "message": "JC",
+    "parentMessageId": 3,
+    "status": "read",
+    "senderId": 3,
+    "receiverIndivId": 6,
+    "receiverGroupId": [
+      3,
+      2
+    ]
+  },
+  {
+    "id": 7,
+    "createdOn": "Sat Mar 09 2019 16:22:23 GMT+0200 (Israel Standard Time)",
+    "updatedOn": "Sat Mar 09 2019 16:22:23 GMT+0200 (Israel Standard Time)",
+    "subject": "JC",
+    "message": "JC",
+    "parentMessageId": 3,
+    "status": "read",
+    "senderId": 3,
+    "receiverIndivId": 6,
+    "receiverGroupId": [
+      3,
+      2
+    ]
+  }
+]
